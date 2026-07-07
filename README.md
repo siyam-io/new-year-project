@@ -1,6 +1,6 @@
 # New Year Celebration Project
 
-**Live Demo:** [https://ssiyam0123.github.io/new-year-project/](https://ssiyam0123.github.io/new-year-project/)
+**Live Demo:** [https://siyam-io.github.io/new-year-project/](https://siyam-io.github.io/new-year-project/)
 
 A beautiful and responsive static web page designed to celebrate the New Year. It highlights holiday deals, midnight parties, event details, and special offers.
 
