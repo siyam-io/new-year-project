@@ -1,6 +1,6 @@
-# New Year Celebration Project
+﻿# New Year Celebration Project
 
-**Live Demo:** [https://siyam-io.github.io/new-year-project/](https://siyam-io.github.io/new-year-project/)
+**Live Demo:** [https://siyam-new-year-project.vercel.app/](https://siyam-new-year-project.vercel.app/)
 
 A beautiful and responsive static web page designed to celebrate the New Year. It highlights holiday deals, midnight parties, event details, and special offers.
 
@@ -18,12 +18,12 @@ A beautiful and responsive static web page designed to celebrate the New Year. I
 
 ## Folder Structure
 ```
-├── icons/          # Icon assets
-├── images/         # Image assets
-├── styles/         
-│   └── style-dsgn.css   # Main stylesheet
-├── index.html      # Home page
-└── README.md       # Project documentation
+â”œâ”€â”€ icons/          # Icon assets
+â”œâ”€â”€ images/         # Image assets
+â”œâ”€â”€ styles/         
+â”‚   â””â”€â”€ style-dsgn.css   # Main stylesheet
+â”œâ”€â”€ index.html      # Home page
+â””â”€â”€ README.md       # Project documentation
 ```
 
 ## Setup & Running Locally
@@ -36,3 +36,4 @@ This project is a static site and can be deployed easily on:
 - **GitHub Pages**: Go to Settings -> Pages -> Select `main` branch -> Save.
 - **Vercel**: Run `vercel` or link the GitHub repository to Vercel.
 - **Netlify**: Drag and drop the folder or connect via GitHub.
+
